@@ -1,4 +1,4 @@
-### Paqi is <a href>here</a> 👋
+### Paqi is here 👋
 
 <!--
 **codingham101/codingham101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
